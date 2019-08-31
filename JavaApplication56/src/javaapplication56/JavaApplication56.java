@@ -10,7 +10,7 @@ public class JavaApplication56 {
     public static void main(String[] args) {
         
         
-       MarcoConTeclas mimarco= new MarcoConTeclas();
+       MarcoRaton mimarco= new MarcoRaton();
        mimarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
  
           
@@ -19,8 +19,8 @@ public class JavaApplication56 {
     
 }
     
-    class MarcoConTeclas extends JFrame{
-        public MarcoConTeclas(){
+    class MarcoRaton extends JFrame{
+        public MarcoRaton(){
             setVisible(true);
             setBounds(700,300,600,450);
             
