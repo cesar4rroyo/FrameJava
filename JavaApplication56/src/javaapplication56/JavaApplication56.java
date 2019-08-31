@@ -12,9 +12,7 @@ public class JavaApplication56 {
         
        MarcoRaton mimarco= new MarcoRaton();
        mimarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
- 
-          
-        
+         
     }
     
 }
